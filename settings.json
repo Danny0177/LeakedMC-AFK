@@ -8,7 +8,7 @@
   "server": {
     "ip": "leaked.aternos.me",
     "port": 48035,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 1200,
       "messages": [
         "Fabby!??",
-        "If you're a Java player, and your skin isn't showing, try using /skin {your name}! ",
+        "If you're a Java or Cracked player, and your skin isn't loading, try using /skin {your name}! ",
         "Lagos? What about lagos?!",
         "Looks good... Yeah by the way that isn't on the spec",
         "Too Deep? Too fast flowing? Miss Few what are you on!?",
@@ -44,6 +44,16 @@
         "...I guarantee you, THAT there will get you full marks",
         "..These Year 11s think they're sooo funny",
         "...Honestly Fabby,",
+        "I wish the ring had never come to to me...",
+        "...I wish that none of this ever happened",
+        "So do all who live to see such times, but that is not for them to decide...",
+        "...All we have to decide is what to do with the time given to us.",
+        "To die, to sleep, to sleep perchance to dream, eh, who am I kidding I'm not an English teacher.",
+        "Right, so...",
+        "As fabby kindly pointed out, behind the ice wall ther...",
+        "...What did you just say, the earth's round?!",
+        
+        
       
       ]
     },
