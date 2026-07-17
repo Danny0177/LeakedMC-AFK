@@ -1,25 +1,25 @@
 {
   "name": "Scott_Pullen",
   "bot-account": {
-    "username": "Scott_Pullen",
+    "username": "AFK-V15",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "leaked.aternos.me",
     "port": 48035,
-    "version": "1.21.11",
+    "version": false,
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 100,
     "y": 100,
     "z": 200
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": ""
     },
     "anti-afk": {
@@ -63,7 +63,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
